@@ -1,5 +1,5 @@
 class A{
     public static void main(){
-        System.
+        System.out.println("hgsjhd");
     }
 }
